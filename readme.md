@@ -30,7 +30,7 @@ _Blok: 1; Week 2_
 _Blok: 1; Week: 4_  
 
 #### Bewustzijn
-##### Onderwerp
+##### Inhoudelijk
 In lesweek 4 werd het onderwerp: _"test driven development"_ aan ons voorgelegd. Dit is dan ook het onderwerp waarop 
 dit bericht zich op richt.
 
@@ -54,20 +54,20 @@ tegen te gaan. _First make it green, then make it green._
 [^1]: De test is correct geschreven en functioneert. Met falen wordt bedoelt dat de geschreven code niet voldoet aan de 
 eisen die getest worden.
 
-##### Aanpak
+##### Methode
 De gegeven lessen zorgde voor de grote lijn in het verhaal. Een aanknoppunt om vervolgens het onderwerp verder te 
 onderzoeken. 
 
-Het chaotische beeld vergaart uit de eerste les zorgte ervoor dat ik achteraf zelf aan de gang ging. Ik begon mijn 
-zoektocht binnen _onderwijsonline_. 
+Het chaotische beeld vergaart uit de eerste les zorgte ervoor dat ik achteraf zelf aan de gang ging. 
 
 Hier vond ik onder de les meerdere bestanden gaande over het onderwerp. Ik scande elk om zo te kunnen vaststellen of deze
 nu nuttig voor mij zouden zijn.
 
-Het boek _"A Friendly Introduction to Software Testing"_ leek mij te kunnen helpen. Specifiek het hoofdstuk genaamd 
-_"Test Driven Development"_. Dit hoofdstuk heb ik gelezen.
+Ik heb verschillende documenten op _onderwijsonline_ gescant. _"A Friendly Introduction to Software Testing"_ leek momenteel
+het meest nuttig. Specifiek het hoofdstuk genaamd _"Test Driven Development"_. Dit hoofdstuk ben ik vervolgens in detail gaan
+lezen.
 
-##### Bruikbaarheid
+##### Nut
 _TDD_ is een effectieve manier om kwaliteit binnen code waar te borgen. Tests zorgen ervoor dat de _requirements_ zowat rechtstreeks
 in de code verwerkt zijn. Dit zorgt naar mijn mening voor twee postieven:
 - Het is herleidbaar wat de rol van de functie is. Als _clean_ code en de documentatie faalt, kunnen de tests nog inzicht bieden in
@@ -77,21 +77,30 @@ verwijdert uit de code zal er een _regression_ plaatsvinden. De developer heeft 
 
 
 #### Evaluatie
-##### Onderwerp
+##### Inhoudelijk
+Ik begrijp goed hoe _TDD_, en de concepten daarbinnen, theoretisch in elkaar steken. Het is verstandig
+om het nu proberen toe te passen; het praktische.
 
-##### Aanpak
+_Basic_ _unit tests_ kan ik wel implementeren. _Mocks_ en _stubs_ moet ik meer aandacht in steken. 
 
-##### Bruikbaarheid
+##### Methode
+De methode om te leren lijkt effectief te zijn. Geen reden om het complexer te maken.
 
+Ik ben zeker dat ik het theoretisch goed begrijp. Ik kan gemakkelijk aan iemand anders het onderwerp uitleggen. Dit is voor mij bewijs
+dat ik de theorie begrijp. 
+
+##### Nut
+Ik geloof in het nut van _TDD_. Dit baseer ik op het volgende:
+- **Vele vacatures vereisen _TDD_**: Het is moeilijk te geloven dat zoveel bedrijven en mensen hun tijd verspillen
+zonder dat ze er iets uit halen. Dit zijn nadrukkelijk niet de instapbanen.
+- **Het wordt gegeven op school**: Het is moeilijk te geloven dat een grote onderwijsinstantie zoals de HAN geen 
+eigen onderzoek heeft verricht naar het nut van _TDD_.
+- **Verhalen van gebruikers _TDD_**: Het is moeilijk te geloven dat de verhalen zoals die van Ronald nergens op gebaseerd zijn.
 
 #### Regulatie
+##### Inhoudelijk
 
-##### Onderwerp
+##### Methode
 
-##### Aanpak
+##### Nut
 
-##### Bruikbaarheid
-
-###
-
-## Conclusie
