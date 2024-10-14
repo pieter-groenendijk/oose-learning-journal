@@ -81,7 +81,7 @@ verwijdert uit de code zal er een _regression_ plaatsvinden. De developer heeft 
 Ik begrijp goed hoe _TDD_, en de concepten daarbinnen, theoretisch in elkaar steken. Het is verstandig
 om het nu proberen toe te passen; het praktische.
 
-_Basic_ _unit tests_ kan ik wel implementeren. _Mocks_ en _stubs_ moet ik meer aandacht in steken. 
+_Basic_ _unit tests_ kan ik wel implementeren. _Mocks_ en _stubs_ heb ik nog moeite mee. 
 
 ##### Methode
 De methode om te leren lijkt effectief te zijn. Geen reden om het complexer te maken.
@@ -99,8 +99,16 @@ eigen onderzoek heeft verricht naar het nut van _TDD_.
 
 #### Regulatie
 ##### Inhoudelijk
+_Mocks_ en _stubs_ moet ik meer aandacht in steken. Het lijkt mij verstandig hier specifiek wat meer theorie over te lezen. 
+Het hoofdstuk _Test Doubles_ in het eerder besproken boek is hier handig. 
+
+Verder is het van belang dat ik praktisch ermee omga. 
 
 ##### Methode
+Het is fijn om kennis op te doen. Het is nog fijner de kennis vast te houden. Daarom is puur de theorie lezen niet genoeg. 
+Ik stel voor de kern uit het hoofdstuk samen te vatten in een eigen document. Het maken van een samenvatting zorgt ervoor 
+dat ik het later snel terug kan lezen indien ik iets vergeten ben.
 
 ##### Nut
-
+Het begrijpen van _TDD_ zorgt ook voor een interesse in _Behavioral-driven development_. Pluspunten worden in _BDD_ nog
+groter onder de loep genomen.
