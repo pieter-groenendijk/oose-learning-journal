@@ -14,10 +14,30 @@ een groep. Dat zou kunnen helpen binnen de oose casus.
 Op korte-termijn wil ik mijn casus behalen, iets specifieker:
 "Ik wil minimaal een 7 halen voor de oose casus."
 
-Ik denk dat dit onderwerp daar zeker invloed op zal hebben.
-
 ### Obstakels
 Ik heb momenten waar ik niet helemaal de discipline heb om zulke patronen goed te 
 implementeren. Momenteel heb ik veel verantwoordelijkheden om mij genomen wat ervoor
 zorgt dat ik dingen simpelweg wil afronden, en dus soms niet de discipline heb om dat
 helemaal correct aan te pakken.
+
+
+## Evaluatie
+### Relevantie tot doel
+Ik denk dat het onderwerp zeker een positieve invloed zal hebben op mijn casus. In die zin
+is het dus relevant voor dat doel.
+
+### Progressie doel
+Momenteel heb ik begrip van specifiek de MVC pattern, andere architectural patterns eigenlijk
+nog niet echt. Ik zou daar nog aan kunnen werken om zo dit pattern beter in perspectief te
+zetten.
+
+### Bron obstakels
+Het besproken obstakel kwam doordat ik dacht dat het semester minder van mij zou vragen. 
+Ik had mij duidelijk niet goed ingelezen wat het semester ging inhouden. Vervolgens ben
+ik een relatief intensief project aan te gaan. Dit was achteraf erg onverantwoord. Ik bevindt
+mij nu op een plek waar ik het gevoel heb dat ik niet opdrachten niet kan aanpakken op het
+niveau dat ik wil.
+
+Praktisch gezien zit ik dus nu eenmaal in deze situatie. Mijn weg hieruit is door uiterest mijn
+best te doen, en te accepteren dat ik nu eenmaal niet alles perfect kan doen. Echter blijven we
+wel naar "goed" streven, anders beschouw ik het als slechte tijdsbesteding.
