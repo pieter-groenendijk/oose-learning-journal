@@ -34,10 +34,11 @@ zetten.
 ### Bron obstakels
 Het besproken obstakel kwam doordat ik dacht dat het semester minder van mij zou vragen. 
 Ik had mij duidelijk niet goed ingelezen wat het semester ging inhouden. Vervolgens ben
-ik een relatief intensief project aan te gaan. Dit was achteraf erg onverantwoord. Ik bevindt
+ik een relatief intensief project aan te gaan. Dit was achteraf erg onverantwoord. Ik bevind
 mij nu op een plek waar ik het gevoel heb dat ik niet opdrachten niet kan aanpakken op het
 niveau dat ik wil.
 
-Praktisch gezien zit ik dus nu eenmaal in deze situatie. Mijn weg hieruit is door uiterest mijn
-best te doen, en te accepteren dat ik nu eenmaal niet alles perfect kan doen. Echter blijven we
-wel naar "goed" streven, anders beschouw ik het als slechte tijdsbesteding.
+Praktisch gezien zit ik dus nu eenmaal in deze situatie. Mijn weg hieruit is door uiterst mijn
+best te doen, en te accepteren dat ik nu eenmaal niet alles perfect kan doen. Er wordt gestreven
+naar "goed", anders zou ik het als slechte tijdsbesteding beschouwen.
+
