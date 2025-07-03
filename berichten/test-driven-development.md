@@ -1,9 +1,9 @@
-# Test Driven Development
+## Test Driven Development
 _Leerervaring_  
 _Blok: 1; Week: 4_  
 
-## Bewustzijn
-### Onderwerp 
+### Bewustzijn
+#### Onderwerp 
 In lesweek 4 werd het onderwerp: _"test driven development"_ aan ons voorgelegd. Dit is dan ook het onderwerp waarop 
 dit bericht zich op richt.
 
@@ -27,7 +27,7 @@ om een _regression_ tegen te gaan.
 [^1]: De test is correct geschreven en functioneert. Falen betekent hier dat de geschreven code niet voldoet aan de 
 eisen die getest worden.
 
-### Proces
+#### Proces
 De gegeven lessen zorgde voor de grote lijn in het verhaal. Een aanknooppunt om vervolgens het onderwerp verder te 
 onderzoeken. 
 
@@ -35,7 +35,7 @@ Het chaotische beeld vergaart uit de eerste les zorgde ervoor dat ik achteraf ze
 een boek te vinden op onderwijsonline: _"A Friendly Introduction to Software Testing"_. Specifiek het hoofdstuk genaamd 
 _"Test Driven Development"_. Dit hoofdstuk heb ik vervolgens in detail gelezen.
 
-### Nut
+#### Nut
 _TDD_ is een effectieve manier om kwaliteit binnen code waar te borgen. Tests zorgen ervoor dat de _requirements_ zowat rechtstreeks
 in de code verwerkt zijn. Dit zorgt naar mijn mening voor twee voordelen:
 - Het is herleidbaar wat de rol van de functie is. Als _clean_ code en de documentatie faalt, kunnen de tests nog inzicht bieden in
@@ -44,20 +44,20 @@ de rol van de code. Zo zou iemand dus bijv. achter een randvoorwaarde van de fun
 verwijdert uit de code zal er een _regression_ plaatsvinden. De developer heeft inzicht wanneer dit gebeurt en kan hier naar handelen.
 
 
-## Evaluatie
-### Onderwerp
+### Evaluatie
+#### Onderwerp
 Ik begrijp goed hoe _TDD_, en de concepten daarbinnen, theoretisch in elkaar steken. Het is verstandig
 om het nu proberen toe te passen; het praktische.
 
 _Basic_ _unit tests_ kan ik wel implementeren. _Mocks_ en _stubs_ heb ik nog moeite mee. 
 
-### Effectiviteit Proces 
+#### Effectiviteit Proces 
 De methode om te leren lijkt effectief te zijn. Geen reden om het complexer te maken.
 
 Ik ben zeker dat ik het theoretisch goed begrijp. Ik kan gemakkelijk aan iemand anders het onderwerp uitleggen. Dit is 
 voor mij bewijs dat ik de theorie begrijp. 
 
-### Onderbouwing Nut
+#### Onderbouwing Nut
 Ik geloof tenminste in het nut van _TDD_ uitproberen. Dit baseer ik op het volgende:
 - **Vele vacatures vereisen _TDD_**: Het is moeilijk te geloven dat zoveel bedrijven en mensen hun tijd verspillen
 zonder dat ze er iets uit halen. Dit zijn nadrukkelijk niet de instapbanen.
@@ -67,20 +67,20 @@ eigen onderzoek heeft verricht naar het nut van _TDD_.
 
 Het daadwerkelijke nut van _TDD_ baseer ik liever op harde feiten en ervaring. Dat heb ik momenteel nog niet.
 
-## Regulatie
-### Onderwerp
+### Regulatie
+#### Onderwerp
 _Mocks_ en _stubs_ moet ik meer aandacht in steken. Het lijkt mij verstandig hier specifiek wat meer theorie over te lezen. 
 Het hoofdstuk _Test Doubles_ in het eerder besproken boek lijkt hier handig. 
 
 Verder is het van belang dat ik de stof ga toepassen. Daarom ga ik _TDD_ minimaal 2 weken toepassen bij mij huidige
 project. Natuurlijk gaat _TDD_ ook al bij de OOSE-casus gebruikt worden.
 
-### Proces 
+#### Proces 
 Het is fijn om kennis op te doen. Het is nog fijner de kennis vast te houden. Daarom is puur de theorie lezen niet genoeg. 
 Ik stel voor de kern uit het hoofdstuk samen te vatten in een eigen document. Het maken van een samenvatting zorgt ervoor 
 dat ik het later snel terug kan lezen indien ik iets vergeten ben. Daarnaast ben ik ook simpelweg bezig met de stof, wat
 ook al zeker zal helpen.
 
-### Nut
+#### Nut
 Het begrijpen van _TDD_ zorgt ook voor een interesse in _Behavioral-driven development_. Sommige pluspunten van _TDD_ worden 
 in _BDD_ nog groter onder de loep genomen.
