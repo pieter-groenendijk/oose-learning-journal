@@ -11,28 +11,26 @@ _Unit tests_ worden niet alleen in _test driven development_ gebruikt. Natuurlij
 _Test driven development_ legt een grote focus op _units tests_, dat is het verschil.
 
 _TTD_ is een techniek die (naar mijn mening) bestaat uit de volgende primaire punten, namelijk:
-1. **Tests worden eerst geschreven, daarna de code:** Er wordt eerst gefocust op _wat_ de consequenties van een (nog niet) geschreven
+1. **Tests worden eerst geschreven, daarna de logica:** Er wordt eerst gefocust op _wat_ de consequenties van een (nog niet) geschreven
 stuk code zal zijn. _TDD_ is een vorm van _test-first development_.
 2. **Code logica wordt geïmplementeerd in hoeverre de tests dan toestaan:** Er wordt alleen code geschreven om de 
 al geschreven tests (zie vorige punt) te laten slagen.
 
 Het schrijven van software met _TDD_ volgt de _Red-Green-Refactor Loop_. Deze cyclus bestaat uit de volgende toestanden:
-1. **Red:** Een geschreven test _faalt_[^1]. De developer zal de code aanpassen totdat deze slaagt zonder dat andere tests beginnen te falen. 
+1. **Red:** Een geschreven test _faalt_. De developer zal de code aanpassen totdat deze slaagt zonder dat andere tests beginnen te falen. 
 Dan gaat men door naar de volgende toestand.
 2. **Green:** Alle test werken; de code doet het. Hoogstwaarschijnlijk ziet de code er niet _clean_ uit. Voor die reden 
 gaat men naar de volgende toestand.
 3. **Refactor:** De geschreven code wordt gerefactored tot een _clean_ geheel. Hier worden nog steeds tests uitgevoerd 
 om een _regression_ tegen te gaan. 
 
-[^1]: De test is correct geschreven en functioneert. Falen betekent hier dat de geschreven code niet voldoet aan de 
-eisen die getest worden.
 
 #### Proces
 De gegeven lessen zorgde voor de grote lijn in het verhaal. Een aanknooppunt om vervolgens het onderwerp verder te 
 onderzoeken. 
 
 Het chaotische beeld vergaart uit de eerste les zorgde ervoor dat ik achteraf zelf aan de gang ging. Ik kwam hierbij
-een boek te vinden op onderwijsonline: _"A Friendly Introduction to Software Testing"_. Specifiek het hoofdstuk genaamd 
+een boek tegen op onderwijsonline: _"A Friendly Introduction to Software Testing"_. Specifiek het hoofdstuk genaamd 
 _"Test Driven Development"_. Dit hoofdstuk heb ik vervolgens in detail gelezen.
 
 #### Nut
