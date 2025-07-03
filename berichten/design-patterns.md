@@ -1,3 +1,6 @@
+
+\newpage
+
 ## Design Patterns
 _Leerervaring in relatie tot professionele ontwikkeling_  
 

@@ -1,3 +1,6 @@
+
+\newpage
+
 ## SOLID Principes
 _Leerervaring_  
 

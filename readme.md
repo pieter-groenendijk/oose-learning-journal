@@ -1,5 +1,14 @@
-# (OOSE) Learning Journal
-Een (HAN) opdracht voor het vak OOSE.
+---
+title: Learning Journal
+subtitle: HAN OOSE Craftmanship opdracht
+author: Pieter Groenendijk
+lang: nl
+toc: true
+toc-title: Inhoud
+version: 1.0
+date: 3 juli 2025
+---
+
 
 ## Inleiding
 ### Context
@@ -12,17 +21,15 @@ van doelen, wanneer men zichzelf kritisch de moeilijke vragen stelt. Dat is de k
 
 Het is natuurlijk leuk om nieuwe technieken en methodes te leren. De lesstof van HBO-ICT zou uiteindelijk moeten dienen 
 als ontwikkeling richting een carrière. Nu is het de vraag of de lesstof in werkelijk relevant is. Daar heeft een
-deeltijdstudent geluk; het is al mogelijk om het (gedeeltelijk) te relatieveren tot de beroepspraktijk. 
+deeltijdstudent geluk; het is al mogelijk om het (gedeeltelijk) te relativeren tot de beroepspraktijk. 
 
 ### Opdeling
 Het document is opgedeeld per bericht. Een bericht zal zowel het onderwerp als de evaluatie en regulatie bevatten.
 
-## Inhoud
-- [Test Driven Development](berichten/test-driven-development.md)
-- [Design Patterns](berichten/design-patterns.md)
-- [Sequence Diagrams](berichten/sequence-diagrams.md)
-- [Model View Controller Pattern](berichten/model-view-controller-pattern.md)
-- [SOLID](berichten/solid.md)
+### Creatie
+Dit document is origineel geschreven in verscheidene markdown `.md` bestanden. Deze is later met 
+`pandoc` gegenereerd tot de `.pdf` die u nu ziet.
+
 
 
 

@@ -1,10 +1,11 @@
+
+\newpage
+
 ## Object Relational Mapping
 _Leerervaring in relatie tot persoonlijke ontwikkeling_  
 
 ### Bewustzijn
 #### Betekenis
-Het leren van ORMs, en specifieker het toepassen van een ORM is ook een teken van persoonlijke ontwikkeling.
-
 Normaliter ben ik erg koppig en neig ik vaak de moeilijkste weg voor mijzelf te kiezen. De gedachte dat
 de moeilijkste weg vaak het beste resultaat oplevert is iets wat bij mij diep ligt. Ik geloof nogsteeds dat
 het met enige mate waar is.

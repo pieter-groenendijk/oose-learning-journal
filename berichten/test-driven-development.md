@@ -1,3 +1,6 @@
+
+\newpage
+
 ## Test Driven Development
 _Leerervaring_  
 
@@ -10,12 +13,14 @@ _Unit tests_ worden niet alleen in _test driven development_ gebruikt. Natuurlij
 _Test driven development_ legt een grote focus op _units tests_, dat is het verschil.
 
 _TTD_ is een techniek die (naar mijn mening) bestaat uit de volgende primaire punten, namelijk:
+
 1. **Tests worden eerst geschreven, daarna de logica:** Er wordt eerst gefocust op _wat_ de consequenties van een (nog niet) geschreven
 stuk code zal zijn. _TDD_ is een vorm van _test-first development_.
 2. **Code logica wordt geïmplementeerd in hoeverre de tests dan toestaan:** Er wordt alleen code geschreven om de 
 al geschreven tests (zie vorige punt) te laten slagen.
 
 Het schrijven van software met _TDD_ volgt de _Red-Green-Refactor Loop_. Deze cyclus bestaat uit de volgende toestanden:
+
 1. **Red:** Een geschreven test _faalt_. De developer zal de code aanpassen totdat deze slaagt zonder dat andere tests beginnen te falen. 
 Dan gaat men door naar de volgende toestand.
 2. **Green:** Alle test werken; de code doet het. Hoogstwaarschijnlijk ziet de code er niet _clean_ uit. Voor die reden 
@@ -56,6 +61,7 @@ voor mij bewijs dat ik de theorie begrijp.
 
 #### Onderbouwing Nut
 Ik geloof tenminste in het nut van _TDD_ uitproberen. Dit baseer ik op het volgende:
+
 - **Vele vacatures vereisen _TDD_**: Het is moeilijk te geloven dat zoveel bedrijven en mensen hun tijd verspillen
 zonder dat ze er iets uit halen. Dit zijn nadrukkelijk niet de instapbanen.
 - **Het wordt gegeven op school**: Het is moeilijk te geloven dat een grote onderwijsinstantie zoals de HAN geen 

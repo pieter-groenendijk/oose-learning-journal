@@ -1,3 +1,6 @@
+
+\newpage
+
 ## MVC: Model View Controller
 _Leerervaring in relatie tot academische ontwikkeling_  
 
