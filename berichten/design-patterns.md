@@ -18,7 +18,7 @@ Als ik vertraag, vertraagt de oplevering van het project en daarmee mijn uitbeta
 #### Gerelateerde doelen
 Vloeiend uit het benoemde obstakel komt het doel:
 
-Ik wil een project van vergelijkbare schaal en complexiteit sneller kunnen afronden, zonder kwaliteit daarmee in te leveren. 
+> Ik wil een project van vergelijkbare schaal en complexiteit sneller kunnen afronden, zonder kwaliteit daarmee in te leveren. 
 
 ### Evaluatie
 #### Terugkoppeling doel
