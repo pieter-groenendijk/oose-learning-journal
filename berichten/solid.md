@@ -1,6 +1,5 @@
 ## SOLID Principes
 _Leerervaring_  
-_Blok: 1: Week 6_  
 
 ### Bewustzijn
 #### Onderwerp

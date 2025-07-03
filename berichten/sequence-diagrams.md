@@ -1,7 +1,5 @@
 ## Sequence Diagrams
 _Leerervaring_
-_Blok 1: Week 5_
-
 
 ### Bewustzijn
 #### Onderwerp

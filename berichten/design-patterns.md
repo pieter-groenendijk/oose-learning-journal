@@ -1,7 +1,5 @@
 ## Design Patterns
 _Leerervaring in relatie tot professionele ontwikkeling_  
-_Blok: 1: Week: 6_   
-
 
 ### Bewustzijn
 #### Nut

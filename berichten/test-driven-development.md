@@ -1,6 +1,5 @@
 ## Test Driven Development
 _Leerervaring_  
-_Blok: 1: Week: 4_  
 
 ### Bewustzijn
 #### Onderwerp 

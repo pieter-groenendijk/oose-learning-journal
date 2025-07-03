@@ -1,6 +1,5 @@
 ## MVC: Model View Controller
 _Leerervaring in relatie tot academische ontwikkeling_  
-_Blok 1: Week 7_
 
 ### Bewustzijn
 #### Nut
