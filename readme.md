@@ -18,8 +18,11 @@ deeltijdstudent geluk; het is al mogelijk om het (gedeeltelijk) te relatieveren 
 Het document is opgedeeld per bericht. Een bericht zal zowel het onderwerp als de evaluatie en regulatie bevatten.
 
 ## Inhoud
-- [](berichten/test-driven-development.md)
-- [](berichten/design-patterns.md)
+- [Test Driven Development](berichten/test-driven-development.md)
+- [Design Patterns](berichten/design-patterns.md)
+- [Sequence Diagrams](berichten/sequence-diagrams.md)
+- [Model View Controller Pattern](berichten/model-view-controller-pattern.md)
+- [SOLID](berichten/solid.md)
 
 
 
