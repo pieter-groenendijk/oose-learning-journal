@@ -52,8 +52,7 @@ Met een sequence-diagram kan je focussen op de daadwerkelijke werking i.p.v. bez
 te communiceren wat je nu eigenlijk bedoelt te zeggen over het systeem. Het maakt het gesprek
 gegrond en concreet.
 
-##### Discussie Nut
 Sequence diagrams zijn natuurlijk niet puur bedoeld zodat je kan overleggen met stakeholders. Daar bovenop biedt het de
 mogelijkheid om gemakkelijk een complexe serie interacties te bedenken. Het geeft de mogelijkheid te
-_sketchen_. Een sequence-diagram maakt het makkelijker om de connecties te zien dan dat je gelijk je ideeën uit probeert
-te programmeren. 
+_sketchen_. Een sequence-diagram maakt het makkelijker om de connecties te zien nog voordat gedetailleerd
+programmeren nodig is. 
