@@ -1,5 +1,6 @@
 ## MVC: Model View Controller
-_Leerervaring in relatie tot academische ontwikkeling_
+_Leerervaring in relatie tot academische ontwikkeling_  
+_Blok 1: Week 7_
 
 ### Bewustzijn
 #### Nut
@@ -16,7 +17,7 @@ Op korte-termijn wil ik mijn casus behalen, iets specifieker:
 
 #### Obstakels
 Ik heb momenten waar ik niet helemaal de discipline heb om zulke patronen goed te 
-implementeren. Momenteel heb ik veel verantwoordelijkheden op mij genomen wat ervoor
+implementeren. Momenteel heb ik erg veel verantwoordelijkheden op mij genomen wat ervoor
 zorgt dat ik dingen simpelweg wil afronden, en dus soms niet de discipline heb om dat
 helemaal correct aan te pakken.
 
@@ -27,7 +28,7 @@ Ik denk dat het onderwerp zeker een positieve invloed zal hebben op mijn casus. 
 is het dus relevant voor dat doel.
 
 #### Progressie doel
-Momenteel heb ik begrip van specifiek de MVC pattern, andere architectural patterns eigenlijk
+Momenteel begrijp ik het MVC pattern, andere architectural patterns eigenlijk
 nog niet echt. Ik zou daar nog aan kunnen werken om zo dit pattern beter in perspectief te
 zetten.
 
@@ -50,12 +51,12 @@ besproken drukte.
 
 #### Andere paden
 MVC gebruiken binnen de casus is zeker niet de enige factor die meespeelt. Er zijn juist vele
-factoren. Een paar voorbeelden zouden bijv. design patterns, samenwerking en timemanagement zijn.
+factoren. Een paar voorbeelden zouden bijv. design patterns, samenwerking en time-management zijn.
 
 #### Obstakels overkomen
 Praktisch gezien zit ik dus nu eenmaal in deze situatie. Mijn weg hieruit is door uiterst mijn
 best te doen, en te accepteren dat ik nu eenmaal niet alles perfect kan doen. Er wordt gestreven
 naar "goed", anders zou ik het als slechte tijdsbesteding beschouwen.
 
-Ik moet eigenlijk vooral op focussen dat dingen niet uit de hand gaan lopen. Timemanagement is
+Ik moet eigenlijk vooral op focussen dat dingen niet uit de hand gaan lopen. Time-management is
 zeer belangrijk. Voor die reden plan ik elke dag van begin tot eind! 
