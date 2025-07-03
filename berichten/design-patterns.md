@@ -20,10 +20,12 @@ Vloeiend uit het benoemde obstakel komt het doel:
 Ik wil een project van vergelijkbare schaal en complexiteit sneller kunnen afronden, zonder kwaliteit daarmee in te leveren. 
 
 ### Evaluatie
+#### Terugkoppeling doel
 Het leren van _design patterns_ laat mij zien dat het voortgang over het besproken doel haalbaar is. Door technieken
 zoals deze te leren is het inderdaad mogelijk om de ontwikkelsnelheid van een project significant positief te 
 beïnvloeden. 
 
+#### Voortgang
 Hoewel het gebaseerd is op gevoel, kan ik wel met enige zekerheid zeggen dat ik beter ben geworden in het designen van 
 object georiënteerde applicaties. De _patterns_ hebben daarmee geholpen. Niet per se omdat ik inhoudelijk de _patterns_
 nooit eerder heb gezien, maar omdat ze mij helpen de structuur van een applicatie te kunnen abstraheren, en daarmee te kunnen
