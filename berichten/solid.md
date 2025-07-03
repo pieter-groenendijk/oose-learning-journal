@@ -17,7 +17,7 @@ schaalbaarder en onderhoudbaar te maken.
 
 #### Nut
 Beter, en vermoedelijk makkelijker, software kunnen designen is vanzelfsprekend nuttig als software developer. Betere
-code is (hopelijk) een hogere en snellere betaling. 
+code is (hopelijk) een hogere en snellere tegenprestatie. 
 
 ### Evaluatie
 #### Onderwerp
@@ -49,9 +49,13 @@ geval. Daar moet ik dus mee aan de slag te gaan. Het meest voor de hand liggende
 zal ik het ook proberen toe te passen op de volgende projecten die ik tegenkom. 
 
 #### Proces
-Naar mijn mening heb ik niet efficient te werk gegaan. De tijd die ik had gereserveerd was minimaal en bleek redelijk
-onvoldoende. Ik denk dat het van waarde zou zijn om er intensiefer mee aan de slag te gaan.
+Naar mijn mening ben ik niet efficient te werk gegaan. De tijd die ik had gereserveerd was minimaal en bleek redelijk
+onvoldoende. Ik denk dat het van waarde zou zijn om er intensiever mee aan de slag te gaan; praktijk dus.
 
 #### Nut
-De principes kunnen als aanknooppunt gebruikt worden met andere software developers om over de kwaliteit
+De principes kunnen ook als aanknooppunt gebruikt worden met andere software developers om over de kwaliteit
 van de software (op eerste gezicht) te kunnen beoordelen. Ze geven een inschatting van de code.
+
+Daarnaast is het belangrijk om te beseffen dat het hier nogsteeds gaat om principes, niet harde regels. Compleet 
+SOLID code zou in sommige specifieke gevallen juist slechte uitkomsten bieden. Het is dus van waarde om deze nuance 
+op te merken.
